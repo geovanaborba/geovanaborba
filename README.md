@@ -1,4 +1,4 @@
-### Hey! Eu sou a Geovana. <img align="left" alt="Ge-pic" height="230" style="border-radius:50px;" src="https://i.imgur.com/s79gKoh.png">
+### Hey! Eu sou a Geovana. <a href="https://www.instagram.com/astarte.drawings"><img align="left" alt="Ge-pic" height="230" style="border-radius:50px;" src="https://i.imgur.com/s79gKoh.png"></a>
 
 • Estudante de Desenvolvimento de Sistemas 
 <br>
