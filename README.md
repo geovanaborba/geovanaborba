@@ -1,11 +1,13 @@
 ### Hey! Eu sou a Geovana. 
-
+<br>
 • Estudante de Desenvolvimento de Sistemas 
+<br>
 • Estudando programação sozinha
-• Atualmente, ainda no CSS, JS e HTML, mas logo aprendo mais 
+<br>
+• Atualmente, ainda no CSS, JS e HTML, mas logo aprendo mais ヾ(￣▽￣) ~
+<br>
 • Pronouns: She/Ela
-• Fun facts: Sou canhota. 
--->
+<br>
 
 <div align="center">
   <a href="https://github.com/geovanaborba">
