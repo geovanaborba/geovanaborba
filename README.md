@@ -20,11 +20,11 @@
   ##
     
 ### ⚙️ &nbsp;GitHub Analytics
-<img align="left" alt="gif-mio" height="350" style="border-radius:50px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+<img align="left" alt="gif-mio" height="250" style="border-radius:50px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=geovanaborba&show_icons=true&theme=dracula" alt="geovanaborba's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaborba&layout=compact&theme=dracula" alt="geovanaborba's most languages"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=geovanaborba&show_icons=true&theme=dracula" alt="geovanaborba's stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaborba&layout=compact&theme=dracula" alt="geovanaborba's most languages"/>
 </p>
  
   
