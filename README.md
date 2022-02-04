@@ -20,12 +20,13 @@
   ##
     
 ### ⚙️ &nbsp;GitHub Analytics
+<a href="https://github.com/geovanaborba">
 <img align="left" alt="gif-mio" height="300" style="border-radius:50px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
 
 <p align="left">
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=geovanaborba&show_icons=true&theme=dracula" alt="geovanaborba's stats"/>
 <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaborba&layout=compact&theme=dracula" alt="geovanaborba's most languages"/>
-</p>
+</p></a>
  
   
   
@@ -33,8 +34,8 @@
  <div align="center">  
   
 #### "Primeiro resolva o problema. Depois escreva o código" !
-  <a href="https://github.com/rafaballerini">
-<div style="display: inline_block">
+  <a href="https://github.com/geovanaborba">
+  <div style="display: inline_block">
   <br>
   <img align="center" alt="Ge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ge-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
