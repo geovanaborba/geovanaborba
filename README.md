@@ -1,4 +1,4 @@
-### Hey! Eu sou a Geovana. <img align="left" alt="Ge-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/bOrhKXJ.png">
+### Hey! Eu sou a Geovana. 
 
 • Estudante de Desenvolvimento de Sistemas 
 <br>
