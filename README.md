@@ -15,12 +15,25 @@
   <a href="https://www.linkedin.com/in/geovanaborba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/xgihx_?si=9792d23f028648d1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/astarte19/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-
 </div>
+
+  ##
+    
+### ⚙️ &nbsp;GitHub Analytics
+<img align="left" alt="gif-mio" height="350" style="border-radius:50px;" src="https://i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=geovanaborba&show_icons=true&theme=dracula" alt="geovanaborba's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaborba&layout=compact&theme=dracula" alt="geovanaborba's most languages"/>
+</p>
+ 
+  
   
   ##
+ <div align="center">  
   
-<div align="center">  
+#### "Primeiro resolva o problema. Depois escreva o código" !
+  
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Ge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,15 +43,3 @@
 </div>
   
   <br>
-  
-  <div>
-  <a href="https://github.com/geovanaborba">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=geovanaborba&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaborba&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-  
-  
-  
-  ##
- 
-#### "Primeiro resolva o problema. Depois escreva o código" !
