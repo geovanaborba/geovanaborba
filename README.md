@@ -31,9 +31,9 @@
   
   ##
  <div align="center">  
-  <a href="https://github.com/rafaballerini">
-#### "Primeiro resolva o problema. Depois escreva o código" !
   
+#### "Primeiro resolva o problema. Depois escreva o código" !
+  <a href="https://github.com/rafaballerini">
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Ge-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
