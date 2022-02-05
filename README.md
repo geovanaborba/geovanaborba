@@ -2,7 +2,7 @@
 
 • Estudante de Desenvolvimento de Sistemas 
 <br>
-• Comecei estudando programação sozinha
+• Comecei estudando sozinha
 <br>
 • Atualmente, ainda no CSS, JS e HTML, mas logo aprendo mais ヾ(￣▽￣) ~
 <br>
