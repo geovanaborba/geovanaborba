@@ -4,7 +4,7 @@
 <br>
 • Comecei estudando sozinha
 <br>
-• Atualmente, ainda no CSS, JS e HTML, mas logo aprendo mais ヾ(￣▽￣) ~
+• Meu foco de estudo atualmente são HTML, JS, CSS/Bootstrap, JAVA e MySQL ヾ(￣▽￣) ~
 <br>
 • Ilustradora nas horas vagas
 <br>
