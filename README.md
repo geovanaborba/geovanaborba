@@ -1,14 +1,14 @@
-### Hey! Eu sou a Geovana. <a href="https://www.instagram.com/astarte.drawings" target="_blank"><img align="left" alt="Ge-pic" height="210" style="border-radius:50px;" src="https://i.imgur.com/bOrhKXJ.png"></a>
+### Olá! Eu sou a Geovana. <a href="https://www.instagram.com/astarte.drawings" target="_blank"><img align="left" alt="Ge-pic" height="210" style="border-radius:50px;" src="https://i.imgur.com/bOrhKXJ.png"></a>
 
-• Estudante de Desenvolvimento de Sistemas 
+• Estudante de Desenvolvimento de Sistemas pela Etec.
 <br>
-• Comecei estudando sozinha
+• Comecei estudando sozinha.
 <br>
-• Meu foco de estudo atualmente são HTML, JS, CSS, Bootstrap e React ヾ(￣▽￣) ~
+• Meu foco de estudo atualmente são JavaScript e ReactJS ヾ(￣▽￣) ~
 <br>
-• Ilustradora nas horas vagas
+• Ilustradora nas horas vagas.
 <br>
-• Pronouns: She/Ela
+• Pronouns: She/Ela.
 <br>
 • Fun Facts: Sou canhota. Amo café, mas me faz mal. Já caí da beliche e continuei dormindo 👌🏼
 <div> 
