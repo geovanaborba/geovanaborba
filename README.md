@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Geovana. <a href="https://www.instagram.com/astarte.drawings" target="_blank"><img align="left" alt="Ge-pic" height="210" src="src/assets/final oculos novo.png"></a>
 
-• Estudante de Desenvolvimento de Sistemas pela Etec.
+• Técnica em Desenvolvimento de Sistemas pela Etec.
 <br>
 • Comecei estudando sozinha.
 <br>
