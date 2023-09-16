@@ -29,10 +29,13 @@
 <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanaborba&layout=compact&theme=dracula" alt="geovanaborba's most languages"/>
 </a>
 
-  
   ##
  <div align="center">  
-  
+
+#### Visitors Count 
+
+  ![Visitor Count](https://profile-counter.glitch.me/geovanaborba/count.svg)
+    
 #### "Primeiro resolva o problema. Depois escreva o código" !
   <a href="https://github.com/geovanaborba">
   <div style="display: inline_block">
