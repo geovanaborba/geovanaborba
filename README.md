@@ -11,9 +11,9 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="./assets/img/gmail.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:geovana.borba@gmail.com"><img src="./assets/img/gmail.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/geovanaborba/" target="_blank"><img src="./assets/img/linkedin.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="#"><img src="./assets/img/whatsapp.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://tinyurl.com/wppGB"><img src="./assets/img/whatsapp.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
