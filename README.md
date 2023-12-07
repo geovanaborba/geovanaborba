@@ -10,15 +10,10 @@
 
 <br>
 
-<a href="#">
-  <img class="ctt-img" src="./assets/img/gmail.png"> 
-</a>
-<a href="#">
-  <img class="ctt-img" src="./assets/img/linkedin.png">
-</a>
-<a href="#">
-  <img class="ctt-img" src="./assets/img/whatsapp.png">
-</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="./assets/img/gmail.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/geovanaborba/" target="_blank"><img src="./assets/img/linkedin.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="#"><img src="./assets/img/whatsapp.png" width="45"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
@@ -37,11 +32,10 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 
 <br><br>
 
-<div align=center>
+<div align="center">
 
 <a href="#">
-
-<img src="./assets/img/undraw_Web_devices_re_m8sc.svg" width="300px">
+<img src="./assets/img/undraw_web_devices_re_m8sc.svg" width="300">
 
 # Confira meu portfólio
 
@@ -63,14 +57,14 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 <br><br>
 
 # Skills
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"> 
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"> 
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="Photoshop">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="Figma">
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="Photoshop">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 <br>
@@ -80,19 +74,19 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 
 <br>
 
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="PHP"> 
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/composer/composer-original.svg" alt="Composer"> 
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"> 
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS"> 
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" alt="Java">
-<img class="img" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu">
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/php/php-original.svg" alt="PHP">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/composer/composer-original.svg" alt="Composer">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="Ubuntu">&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br><br>
 
 <img src="./assets/img/174527160001202.gif" width="220px">
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=GeovanaBorba&color=red&base=1000">
 
 ###### Geovana Borba &copy;
@@ -100,17 +94,3 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 </div>
 
 <img src="./assets/img/wave.svg">
-
-<style>
-  .ctt-img {
-  display: inline-block;
-  padding: 0 20px;
-  width: 45px;
-  }
-
-  .img {
-    display: inline-block;
-    padding-right: 10px;
-    width: 45px;
-  }
-</style>
