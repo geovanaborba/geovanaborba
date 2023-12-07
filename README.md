@@ -57,15 +57,16 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 <br><br>
 
 # Skills
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="Photoshop">&nbsp;&nbsp;&nbsp;&nbsp;
-<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5">&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS">&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript">&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap">&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git">&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode">&nbsp;&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="Photoshop">&nbsp;&nbsp;&nbsp;
+<img width="45" src="./assets/img/notion.png">&nbsp;&nbsp;
+<img width="45" src="./assets/img/painttool-sai_111360.webp">&nbsp;&nbsp;
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="Figma">
 <br>
 <br>
 
