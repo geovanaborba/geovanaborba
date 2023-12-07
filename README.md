@@ -42,7 +42,7 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 </a>
 </div>
 
-<br><br><br>
+<br><br>
 
 # <img src="./assets/img/engrenagem.png" width="45" align="center"> &nbsp;GitHub Analytics
 
@@ -66,7 +66,6 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/photoshop/photoshop-line.svg" alt="Photoshop">&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/figma/figma-original.svg" alt="Figma">&nbsp;&nbsp;&nbsp;&nbsp;
 
-<br>
 <br>
 <br>
 
