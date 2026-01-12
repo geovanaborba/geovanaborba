@@ -37,7 +37,7 @@ Em meio a essa jornada, quis me aprofundar um pouco mais.
 <a href="https://geovanaborba.github.io/Codelandia-desafios/Desafio-9/" target="_blank">
 <img src="./assets/img/undraw_web_devices_re_m8sc.svg" width="300">
 
-# [Confira meu portfólio(em andamento)](https://geovanaborba.github.io/Codelandia-desafios/Desafio-9/)
+# [Confira meu portfólio](https://geovanaborba.github.io/Codelandia-desafios/Desafio-9/)
 
 </a>
 </div>
